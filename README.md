@@ -61,7 +61,5 @@ The Power BI dashboard provided a **comprehensive overview** of crowdfunding act
 
 
 ## Dashboard Preview
+<img width="1307" height="733" alt="Screenshot 2025-09-29 181439" src="https://github.com/user-attachments/assets/ae350a10-5a96-4f63-b2ca-c9368d0e4d57" />
 
-I created a short video walkthrough of the **interactive dashboard** for better visualization:
-
-🎥 [Watch the Dashboard Preview](https://github.com/FairouzGhazaly/Power-BI-Kickstarter-Data-Analysis-/blob/main/43d4-f4c2-4e69-bc0c-c899b36ced5c.mp4) 
